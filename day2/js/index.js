@@ -109,7 +109,7 @@ sum("john", "doe");
 
 //method
 let person = {
-  name: "john",
+  name: "nisha",
   age: "23",
   talk: function () {
     console.log("hello world");
