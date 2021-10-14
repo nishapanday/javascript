@@ -6,7 +6,7 @@ var x = 5;
 
 let name = "nisha";
 
-name = "panday";
+name = "pandey";
 
 console.log(name);
 
